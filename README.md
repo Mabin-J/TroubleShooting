@@ -1,4 +1,6 @@
 TroubleShooting
 ===============
 
-Repository for Trouble Shooting
+MD파일을 이용할까 했습니다만 위키가 편할 수도 있을 것 같아 위키로 관리합니다.
+
+[위키](https://github.com/mabin359/TroubleShooting/wiki)
